@@ -1,0 +1,19 @@
+{
+  "name": "Élixir Parfum",
+  "short_name": "Élixir",
+  "description": "Премиальные масляные духи и оригинальная парфюмерия",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#C9A962",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
